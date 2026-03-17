@@ -1,1 +1,7 @@
-Please paste your list of test URLs below:
+URLs used for testing:
+
+https://www.wikipedia.org/
+https://www.nasa.gov/
+https://www.nationalgeographic.com/
+https://www.bbc.com/
+https://www.nytimes.com/
